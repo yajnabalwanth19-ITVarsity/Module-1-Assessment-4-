@@ -1,15 +1,10 @@
 body{
     background-color: #C65D7B;
 }
-#movie{
-    background-color: #FFEEEE;
-}
 h1{
     color:#040303;
     font-family: sans-serif;
-    margin-left: 400px;
-    
-    
+    margin-left: 350px;
 }
 th{
     font-weight: bold;
@@ -24,7 +19,5 @@ table{
     border-color: darkslategrey;
     background-color: #FFEEEE;
 }
-img{
-    margin:2px;
-}
+
 
